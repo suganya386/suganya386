@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @suganya386 from Chennai
+- 👋 Hi, I’m @suganya from Chennai
 - 👀 I’m interested in reading books and adventures
-- 🌱 I’m currently learning Data science
+- 🌱 I’m intrested in data analysis
 - 💞️ I’m looking to collaborate on my project
 - 📫 You can reach me in facebook as Suganya k
 
