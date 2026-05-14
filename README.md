@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suganya from Chennai
+- 👋 Hi, I’m Suganya from Chennai
 - 👀 I’m interested in reading books and adventures
 - 🌱 I’m intrested in data analysis
 - 💞️ I’m looking to collaborate on my project
